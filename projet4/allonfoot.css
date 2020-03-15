@@ -1,0 +1,56 @@
+body {
+    background-image : url("lol.jpeg");
+	background-size: cover;
+	margin:0;
+	border:0;
+	padding:0;
+
+}
+
+h1 { 
+	color: red;
+	text-align: center;
+	text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: -7px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+}
+
+li {
+   	
+	float:left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: red;
+    border-right: 1px solid red;
+}
+
+
+.navbar {
+	float:left;
+}
+
+.login {
+	float:right;
+}
+
+
+
+
+

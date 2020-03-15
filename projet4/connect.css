@@ -1,0 +1,47 @@
+body {
+	background-image:url(lol.jpeg);
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	font-family:"trebuchet ms",sans-serif;
+ 	font-size:90%;
+	margin:0;
+	border:0;
+	padding:0;
+
+}
+
+
+form {
+ 	padding:10px;
+ 	width:280px;
+	
+}
+
+input, textarea, select {
+	 padding:3px;
+	 border:2px solid black;
+	 border-radius:5px;
+	 width:200px;
+	 box-shadow:1px 1px 2px #C0C0C0 inset;
+	
+}
+
+select {
+	 margin-top:10px;
+}
+
+
+
+input[type=submit], input[type=reset] {
+ 	width:100px;
+ 	margin-left:5px;
+ 	cursor:pointer;
+}
+.textcolor {
+	color:black;
+	text-shadow:0 0 5px white;
+}
+
+
